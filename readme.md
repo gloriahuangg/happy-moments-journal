@@ -1,12 +1,12 @@
-# Happy Moments Journal
+# Sunshine Journal
 
-Happy Moments Journal is a Streamlit-based web application that allows users to record and revisit their happy moments. It's designed to boost mood and promote positive thinking by encouraging users to document their joyful experiences and randomly recall them later.
+Sunshine Journal is a Streamlit-based web application that allows users to record and revisit their happy moments. It's designed to boost mood and promote positive thinking by encouraging users to document their joyful experiences and randomly recall them later.
 
 ## Features
 
 - User registration and login system
 - Add happy moments with text descriptions and optional images
-- View random happy moments from the past
+- View and generate random happy moments from the past when feeling homesick
 - Simple and intuitive user interface
 
 ## Installation
